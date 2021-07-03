@@ -13,7 +13,7 @@ The queries must be written inside `sql_queries.py` and then run the following s
 - song_id, title, artist_id, year, duration  
 
 **artists** - artists in music database:
-- artist_id, name, location, lattitude, longitude  
+- artist_id, name, location, latitude, longitude  
 
 **time** - timestamps of records in songplays broken down into specific units:
 - start_time, hour, day, week, month, year, weekday  
